@@ -1,0 +1,14 @@
+meet client,closed,8
+build interface,open,0
+test app,in progress,8
+play,in progress,8
+clean up,open,0
+write tests,open,0
+build code,open,0
+do smth,open,0
+do smth 2,open,0
+smth,open,0
+fight,open,0
+b,open,0
+a,open,0
+b,open,0
